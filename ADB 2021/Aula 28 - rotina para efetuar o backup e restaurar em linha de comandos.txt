@@ -1,0 +1,19 @@
+TODOS OS COMANDOS DEVEM SER ESCRITOS NO PROMPT DO SISTEMA OPERACIONAL
+
+
+Fazer o backup
+
+fazer o backup apenas das tabelas e dados
+mysqldump  -u root -p  --databases db_company > C:\Users\Public\Documents\backup.sql
+
+fazer o backup tabelas, dados e subrotinas
+mysqldump -u root -p --routines --databases  db_company > C:\Users\Public\Documents\backup.sql
+
+criar o banco de dados
+mysqladmin -u root -p create db_company 
+
+
+restaurando o backup
+mysql -u root -p  db_company < C:\Users\Public\Documents\backup.sql
+
+
