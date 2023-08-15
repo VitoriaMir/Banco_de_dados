@@ -34,6 +34,6 @@ O curso de Administrador de Banco de Dados abrange uma variedade de tópicos fun
 Ao concluir com sucesso o Curso de Administrador de Banco de Dados do SENAC, você receberá um certificado reconhecido que atesta suas habilidades e conhecimentos na área. Este certificado pode ser uma valiosa adição ao seu currículo e pode ser usado para demonstrar suas competências a futuros empregadores ou na progressão da sua carreira.
 
 ## Contato e Inscrições
-Para mais informações sobre datas, horários, valores e inscrições, visite o site oficial do Senac .
+Para mais informações sobre datas, horários, valores e inscrições, visite o site oficial do Senac. - https://www.senac.br
 
 Prepare-se para se tornar um profissional capacitado na administração de bancos de dados com o Curso de Administrador de Banco de Dados do Senac. Inscreva-se agora mesmo e dê um passo importante em direção a uma carreira emocionante na área de tecnologia da informação!
