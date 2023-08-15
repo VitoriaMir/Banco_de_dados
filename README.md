@@ -2,17 +2,12 @@
 
 Bem-vindo ao meu repositório sobre o Curso de Administrador de Banco de Dados do SENAC! Neste arquivo README, você encontrará informações essenciais sobre o curso, incluindo o conteúdo abordado, duração, certificação e muito mais.
 
-## Descrição do Curso
-
-O Curso de Administrador de Banco de Dados oferecido pelo SENAC é projetado para proporcionar aos alunos uma compreensão profunda dos princípios, técnicas e práticas envolvidas na administração de sistemas de gerenciamento de banco de dados. Durante o curso, os alunos adquirem habilidades essenciais para projetar, implementar e manter sistemas de banco de dados eficientes e seguros.
-
 ## Detalhes do Curso
 
 - **Instituição:** SENAC (Serviço Nacional de Aprendizagem Comercial)
 - **Duração:** 200 horas
 - **Modalidade:** Presencial 
 - **Nível:** Básico ao Intermediário
-
 
 ## Conteúdo do Curso
 
