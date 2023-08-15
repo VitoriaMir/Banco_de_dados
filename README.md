@@ -1,6 +1,6 @@
 # Curso de Administrador de Banco de Dados | 200 Horas
 
-![Senac Logo](https://www.sp.senac.br/image/52250.gif)
+![Senac Logo]([https://www.sp.senac.br/image/52250.gif](https://blog.sc.senac.br/wp-content/uploads/2012/08/11.jpg))
 
 Bem-vindo ao repositório do Curso de Administrador de Banco de Dados oferecido pelo Senac! Este é um curso abrangente e prático que visa fornecer aos participantes as habilidades e conhecimentos necessários para se tornarem proficientes em administrar sistemas de bancos de dados de forma eficiente e segura.
 
