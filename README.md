@@ -1,7 +1,5 @@
 # Curso de Administrador de Banco de Dados | 200H - SENAC
 
-![SENAC Logo](https://www.sp.senac.br/wp-content/themes/senac-sp/img/logo-senac.png)
-
 Bem-vindo ao meu repositório sobre o Curso de Administrador de Banco de Dados do SENAC! Neste arquivo README, você encontrará informações essenciais sobre o curso, incluindo o conteúdo abordado, duração, certificação e muito mais.
 
 ## Descrição do Curso
